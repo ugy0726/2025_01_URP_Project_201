@@ -1270,7 +1270,7 @@
     "m_ObjectId": "6dc2ec0a8ca7413eb27debe7c353c264",
     "m_Title": "Fresnel Calculation",
     "m_Position": {
-        "x": -1986.0,
+        "x": -1986.0001220703125,
         "y": 22.0
     }
 }
@@ -1967,8 +1967,8 @@
     "m_ObjectId": "8f27fcd122c54f35aa00962851f5d38f",
     "m_Title": "Normals Calculation",
     "m_Position": {
-        "x": -2004.9998779296875,
-        "y": 884.0
+        "x": -2005.0001220703125,
+        "y": 884.0000610351563
     }
 }
 
@@ -2080,7 +2080,7 @@
     "m_ObjectId": "96835a92fd9e44c48e2b272d4eb3b60f",
     "m_Title": "Refraction",
     "m_Position": {
-        "x": -2033.9998779296875,
+        "x": -2034.0001220703125,
         "y": 452.0
     }
 }
