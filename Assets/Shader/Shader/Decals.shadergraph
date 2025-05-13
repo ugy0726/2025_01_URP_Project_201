@@ -2068,8 +2068,8 @@
     "m_ObjectId": "75c876a83d254680aeb376a984cb98f3",
     "m_Title": "Calcukate Bounding box",
     "m_Position": {
-        "x": -170.00001525878907,
-        "y": -249.00001525878907
+        "x": -170.0,
+        "y": -249.0
     }
 }
 
@@ -2372,8 +2372,8 @@
     "m_ObjectId": "9544b248bf5a4477bd3bb5a17ca7c121",
     "m_Title": "Calculate Clip Space Positions",
     "m_Position": {
-        "x": -2641.999755859375,
-        "y": -48.00006103515625
+        "x": -2642.0,
+        "y": -48.0
     }
 }
 
@@ -3188,8 +3188,8 @@
     "m_ObjectId": "d281c50beaef45b49ed5975a72b13c08",
     "m_Title": "Main Texture Sample",
     "m_Position": {
-        "x": -164.99998474121095,
-        "y": 522.0000610351563
+        "x": -165.0,
+        "y": 522.0
     }
 }
 
